@@ -10,14 +10,14 @@
 
 ## Schedule
 
-|  Date            | Description | Important Notes and Materials                              | Recordings' links on YouTube |
-| ---------------- | ----------- | ---------------------------------------------------------- | ---------------------------- |
-| 2023 jan 10      | week 01     |                                                            | https://youtu.be/qWTnNXB4Xew |
-| 2023 jan 17      | week 02     |                                                            |                              |
-| 2023 jan 24      | week 03     |                                                            | https://youtu.be/CxoInK5Y4Vc |
-| 2023 jan 31      | week 04     |                                                            | https://youtu.be/-nwjQmsGWNM |
-| 2023 feb 07      | week 05     |                                                            | https://youtu.be/otPOB9b4brg |
-| 2023 feb 14      | week 06     |                                                            | https://youtu.be/oYh_UFBQuFU |
-| 2023 feb 21      | week 07     | [slides](https://docs.google.com/presentation/d/1Q3J81cvM3X8WPo588BtBoXWMtKhoj6MnUwT_Dwr7ua4/edit#slide=id.gc6f73a04f_0_0) | https://youtu.be/s26l8xDnyPI |
-| 2023 feb 28      | week 08     |                                                            |                              |
-| 2023 mar 07      | week 09     |                                                            |                              |
+|  Date            | Description | Important Notes and Materials                              | Recordings' links on YouTube          |
+| ---------------- | ----------- | ---------------------------------------------------------- | ------------------------------------- |
+| 2023 jan 10      | week 01     |                                                            | [video](https://youtu.be/qWTnNXB4Xew) |
+| 2023 jan 17      | week 02     |                                                            |                                       |
+| 2023 jan 24      | week 03     |                                                            | [video](https://youtu.be/CxoInK5Y4Vc) |
+| 2023 jan 31      | week 04     |                                                            | [video](https://youtu.be/-nwjQmsGWNM) |
+| 2023 feb 07      | week 05     |                                                            | [video](https://youtu.be/otPOB9b4brg) |
+| 2023 feb 14      | week 06     |                                                            | [video](https://youtu.be/oYh_UFBQuFU) |
+| 2023 feb 21      | week 07     | [slides](https://docs.google.com/presentation/d/1Q3J81cvM3X8WPo588BtBoXWMtKhoj6MnUwT_Dwr7ua4/edit#slide=id.gc6f73a04f_0_0) | [video](https://youtu.be/s26l8xDnyPI) |
+| 2023 feb 28      | week 08     |                                                            |                                       |
+| 2023 mar 07      | week 09     |                                                            |                                       |
